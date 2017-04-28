@@ -1,4 +1,7 @@
-# Technical task
+# Description
+This program was made as a training.
+
+## Technical task
 Write a console program in Java that sorts the text submitted to it on the standard input alphabetically.
 
 **Variants of complication:**
