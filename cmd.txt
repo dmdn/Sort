@@ -1,0 +1,7 @@
+dir /s/b/o *.java > source
+
+javac -d  classes -sourcepath src @source
+
+jar cef Main sort.jar -C classes .
+
+java -jar sort.jar Sorting is any process of arranging items systematically, and has two common
